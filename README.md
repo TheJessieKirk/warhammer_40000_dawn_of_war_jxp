@@ -3,6 +3,8 @@
 ## Legal
 Copyright © 2022—2023 Jessie Kirk.
 
+Warhammer 40,000 is © 1987—2023 Games Workshop Group plc.
+
 ## Changes
 
 ### JXP1 (Dawn of War)
