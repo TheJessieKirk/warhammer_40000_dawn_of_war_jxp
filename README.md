@@ -3,13 +3,15 @@
 ## Legal
 Copyright © 2022—2023 Jessie Kirk.
 
+THIS SOFTWARE IS A FAN PROJECT ONLY: IT IS COMPLETELY 100% **UNOFFICIAL** AND IS IN NO WAY ENDORSED BY GAMES WORKSHOP GROUP PLC., ITS SUBSIDIARIES, OR ITS PARTNERS.
+
 Warhammer 40,000 is Copyright © 1987—2023 and/or a Trademark ™/Registered Trademark ® Games Workshop Group plc.
 
 Dawn of War is Copyright © 2004—2006, 2008—2010, 2017; Winter Assault is Copyright © 2005; Dark Crusade is Copyright © 2006; and/or Trademark(s) ™/Registered Trademark(s) ® Games Workshop Group plc, THQ Inc., SEGA Corporation and/or Relic Entertainment Inc.
 
 Soulstorm is Copyright © 2008 and/or a Trademark ™/Registered Trademark ® Games Workshop Group plc, THQ Inc., SEGA Corporation, Relic Entertainment Inc., and/or Iron Lore Entertainment.
 
-All other marks are properties of their respective owners.
+All other properties belong to their respective owners.
 
 ## Changes
 
