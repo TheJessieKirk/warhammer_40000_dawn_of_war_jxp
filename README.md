@@ -1,5 +1,8 @@
 # Warhammer 40,000: Dawn of War JXP (Jessie's eXpansion Pack)
 
+## Legal
+Copyright © 2022—2023 Jessie Kirk.
+
 ## Changes
 
 ### JXP1 (Dawn of War)
