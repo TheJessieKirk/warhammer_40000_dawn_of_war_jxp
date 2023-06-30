@@ -3,7 +3,9 @@
 ## Legal
 Copyright © 2022—2023 Jessie Kirk.
 
-Warhammer 40,000 is © 1987—2023 Games Workshop Group plc.
+Warhammer 40,000 is Copyright © 1987—2023 and/or a Trademark ™/Registered Trademark ® Games Workshop Group plc.
+
+Dawn of War is Copyright © 2004—2006, 2008—2010, 2017; Winter Assault is Copyright © 2005; Dark Crusade is Copyright © 2006; and/or Trademark(s) ™/Registered Trademark(s) ® Games Workshop Group plc, THQ Inc., SEGA Corporation and/or Relic Entertainment Inc.
 
 ## Changes
 
