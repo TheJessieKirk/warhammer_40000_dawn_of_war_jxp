@@ -1,0 +1,555 @@
+Archive =  
+{
+	ArchiveHeader =  
+	{
+		ArchiveName = "JXP1Music",
+	},
+	TOCList =  
+	{
+		 
+		{
+			RootFolder =  
+			{
+				Files =  
+				{
+					 
+					{
+						File = "soundplaylistmusic.lua",
+						Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\soundplaylistmusic.lua]],
+						Size = 621,
+						Store = -1,
+					},
+				},
+				FolderInfo =  
+				{
+					folder = "",
+					path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\]],
+				},
+				Folders =  
+				{
+					 
+					{
+						Files =  
+						{
+							 
+							{
+								File = "_default.rat",
+								Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\_default.rat]],
+								Size = 147,
+								Store = -1,
+							},
+						},
+						FolderInfo =  
+						{
+							folder = "sound",
+							path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\]],
+						},
+						Folders =  
+						{
+							 
+							{
+								Files =  
+								{
+									 
+									{
+										File = "ambient_ingame_01.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\ambient_ingame_01.fda]],
+										Size = 9350861,
+										Store = -1,
+									},
+									 
+									{
+										File = "ambient_ingame_01.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\ambient_ingame_01.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "ambient_ingame_02.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\ambient_ingame_02.fda]],
+										Size = 9786061,
+										Store = -1,
+									},
+									 
+									{
+										File = "ambient_ingame_02.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\ambient_ingame_02.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "ambient_ingame_04.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\ambient_ingame_04.fda]],
+										Size = 10844365,
+										Store = -1,
+									},
+									 
+									{
+										File = "ambient_ingame_04.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\ambient_ingame_04.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "battle_ingame_01.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\battle_ingame_01.fda]],
+										Size = 7988429,
+										Store = -1,
+									},
+									 
+									{
+										File = "battle_ingame_01.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\battle_ingame_01.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "briefing_m02.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\briefing_m02.fda]],
+										Size = 5949645,
+										Store = -1,
+									},
+									 
+									{
+										File = "briefing_m02.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\briefing_m02.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_acid.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_acid.fda]],
+										Size = 6271181,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_acid.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_acid.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_chant.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_chant.fda]],
+										Size = 9530061,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_chant.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_chant.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_coming_of_chaos.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_coming_of_chaos.fda]],
+										Size = 7852237,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_coming_of_chaos.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_coming_of_chaos.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_dawnofwartheme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_dawnofwartheme.fda]],
+										Size = 8455373,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_dawnofwartheme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_dawnofwartheme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_eldartheme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_eldartheme.fda]],
+										Size = 6020301,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_eldartheme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_eldartheme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_eldarthemev2.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_eldarthemev2.fda]],
+										Size = 6117581,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_eldarthemev2.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_eldarthemev2.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_evil_isador_theme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_evil_isador_theme.fda]],
+										Size = 7172301,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_evil_isador_theme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_evil_isador_theme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_force_commander_theme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_force_commander_theme.fda]],
+										Size = 8868045,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_force_commander_theme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_force_commander_theme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_invasion_theme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_invasion_theme.fda]],
+										Size = 6583501,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_invasion_theme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_invasion_theme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_march_of_the_emperor.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_march_of_the_emperor.fda]],
+										Size = 5123789,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_march_of_the_emperor.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_march_of_the_emperor.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_ork_theme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_ork_theme.fda]],
+										Size = 6128845,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_ork_theme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_ork_theme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_tank_march.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_tank_march.fda]],
+										Size = 6845133,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_tank_march.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_tank_march.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_theme_chaos_01.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_theme_chaos_01.fda]],
+										Size = 5993165,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_theme_chaos_01.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_theme_chaos_01.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_theme_spacemarines_01.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_theme_spacemarines_01.fda]],
+										Size = 9345229,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_theme_spacemarines_01.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_theme_spacemarines_01.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_urban_wasteland.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_urban_wasteland.fda]],
+										Size = 8331981,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_urban_wasteland.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_urban_wasteland.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_warhammer40ktheme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_warhammer40ktheme.fda]],
+										Size = 5488333,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_warhammer40ktheme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\music_warhammer40ktheme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_completeobjective.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_completeobjective.fda]],
+										Size = 171213,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_completeobjective.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_completeobjective.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_chaos.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_motif_chaos.fda]],
+										Size = 770253,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_chaos.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_motif_chaos.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_eldar.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_motif_eldar.fda]],
+										Size = 708813,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_eldar.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_motif_eldar.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_forcecommander.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_motif_forcecommander.fda]],
+										Size = 657613,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_forcecommander.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_motif_forcecommander.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_ork.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_motif_ork.fda]],
+										Size = 701645,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_ork.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_motif_ork.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_spacemarines.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_motif_spacemarines.fda]],
+										Size = 381133,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_spacemarines.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_motif_spacemarines.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mysterious_stinger.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_mysterious_stinger.fda]],
+										Size = 2854605,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mysterious_stinger.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_mysterious_stinger.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_newobjective.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_newobjective.fda]],
+										Size = 201421,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_newobjective.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_newobjective.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_pressure_stinger.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_pressure_stinger.fda]],
+										Size = 2613965,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_pressure_stinger.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_pressure_stinger.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_tensedanger.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_tensedanger.fda]],
+										Size = 3156173,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_tensedanger.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\stinger_tensedanger.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "_default.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\_default.rat]],
+										Size = 147,
+										Store = -1,
+									},
+								},
+								FolderInfo =  
+								{
+									folder = "music",
+									path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\sound\music\]],
+								},
+								Folders =  
+								{
+								},
+							},
+						},
+					},
+				},
+			},
+			TOCHeader =  
+			{
+				Alias = "Data",
+				Name = "JXP1Music",
+				RootPath = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\]],
+				Storage =  
+				{
+					 
+					{
+						MaxSize = 100,
+						MinSize = -1,
+						Storage = 0,
+						Wildcard = "*.*",
+					},
+					 
+					{
+						MaxSize = -1,
+						MinSize = -1,
+						Storage = 0,
+						Wildcard = "*.mp3",
+					},
+					 
+					{
+						MaxSize = -1,
+						MinSize = -1,
+						Storage = 0,
+						Wildcard = "*.wav",
+					},
+					 
+					{
+						MaxSize = -1,
+						MinSize = -1,
+						Storage = 0,
+						Wildcard = "*.jpg",
+					},
+					 
+					{
+						MaxSize = -1,
+						MinSize = -1,
+						Storage = 2,
+						Wildcard = "*.lua",
+					},
+				},
+			},
+		},
+	},
+}
+
