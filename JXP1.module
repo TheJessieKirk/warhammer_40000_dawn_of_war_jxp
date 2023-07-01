@@ -1,0 +1,14 @@
+[global]
+
+UIName = $100000000
+Description = Jessie's mod project.
+DllName = W40kMod
+ModFolder = JXP1
+ModVersion = 0.1.0
+
+DataFolder.1 = Data
+
+ArchiveFile.1 = Wh40kSyncData
+ArchiveFile.2 = JXP1Music
+
+RequiredMod.1 = W40k
