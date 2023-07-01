@@ -3,6 +3,12 @@
 ## Legal
 Copyright © 2022—2023 Jessie Kirk.
 
+**Exceot where otherwise noted**, JXP is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+**JXP is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.**
+
+You should have received a copy of the GNU Lesser General Public License along with JXP. If not, see <https://www.gnu.org/licenses/>.
+
 **THIS SOFTWARE IS A FAN PROJECT ONLY: IT IS COMPLETELY 100% UNOFFICIAL AND IS IN NO WAY ENDORSED BY, OR AFFILIATED WITH, GAMES WORKSHOP GROUP PLC., ITS SUBSIDIARIES, OR ITS PARTNERS.**
 
 Warhammer 40,000 is Copyright © 1987—2023 and/or a Trademark ™/Registered Trademark ® Games Workshop Group plc.
