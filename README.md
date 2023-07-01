@@ -3,7 +3,7 @@
 ## Legal
 Copyright © 2022—2023 Jessie Kirk.
 
-**Exceot where otherwise noted**, JXP is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+**Except where otherwise noted**, JXP is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 **JXP is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.**
 
@@ -16,6 +16,8 @@ Warhammer 40,000 is Copyright © 1987—2023 and/or a Trademark ™/Registered T
 Dawn of War is Copyright © 2004—2006, 2008—2010, 2017; Winter Assault is Copyright © 2005; Dark Crusade is Copyright © 2006; and/or Trademark(s) ™/Registered Trademark(s) ® Games Workshop Group plc, THQ Inc., SEGA Corporation and/or Relic Entertainment Inc.
 
 Soulstorm is Copyright © 2008 and/or a Trademark ™/Registered Trademark ® Games Workshop Group plc, THQ Inc., SEGA Corporation, Relic Entertainment Inc., and/or Iron Lore Entertainment.
+
+The GNU Lesser General Public License is Copyright © 1991, 1999, 2007 Free Software Foundation.
 
 All other properties belong to their respective owners.
 
