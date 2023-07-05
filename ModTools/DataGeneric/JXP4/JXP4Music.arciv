@@ -1,0 +1,2984 @@
+Archive =  
+{
+	ArchiveHeader =  
+	{
+		ArchiveName = "JXP4Music",
+	},
+	TOCList =  
+	{
+		 
+		{
+			RootFolder =  
+			{
+				Files =  
+				{
+					 
+					{
+						File = "soundplaylistmusic.lua",
+						Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\soundplaylistmusic.lua]],
+						Size = 1070,
+						Store = -1,
+					},
+				},
+				FolderInfo =  
+				{
+					folder = "",
+					path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\]],
+				},
+				Folders =  
+				{
+					 
+					{
+						Files =  
+						{
+							 
+							{
+								File = "_default.rat",
+								Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\_default.rat]],
+								Size = 147,
+								Store = -1,
+							},
+						},
+						FolderInfo =  
+						{
+							folder = "sound",
+							path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\]],
+						},
+						Folders =  
+						{
+							 
+							{
+								Files =  
+								{
+									 
+									{
+										File = "loop_msd1.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\loop_msd1.fda]],
+										Size = 750285,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd2.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\loop_msd2.fda]],
+										Size = 728269,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd3.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\loop_msd3.fda]],
+										Size = 645837,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd4.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\loop_msd4.fda]],
+										Size = 680141,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd5c.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\loop_msd5c.fda]],
+										Size = 714957,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd5o.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\loop_msd5o.fda]],
+										Size = 660685,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso1.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\loop_mso1.fda]],
+										Size = 736461,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso2.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\loop_mso2.fda]],
+										Size = 744141,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso3.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\loop_mso3.fda]],
+										Size = 748237,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso4.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\loop_mso4.fda]],
+										Size = 698573,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso5e.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\loop_mso5e.fda]],
+										Size = 736461,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso5i.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\loop_mso5i.fda]],
+										Size = 736461,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop1.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\mu_fe_dc_loadloop1.fda]],
+										Size = 768717,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop2.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\mu_fe_dc_loadloop2.fda]],
+										Size = 743629,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop3.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\mu_fe_dc_loadloop3.fda]],
+										Size = 987341,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop4.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\mu_fe_dc_loadloop4.fda]],
+										Size = 659149,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop5.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\mu_fe_dc_loadloop5.fda]],
+										Size = 617677,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop6.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\mu_fe_dc_loadloop6.fda]],
+										Size = 921805,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop7.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\mu_fe_dc_loadloop7.fda]],
+										Size = 691917,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop8.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\mu_fe_dc_loadloop8.fda]],
+										Size = 686285,
+										Store = -1,
+									},
+									 
+									{
+										File = "_default.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\_default.rat]],
+										Size = 128,
+										Store = -1,
+									},
+								},
+								FolderInfo =  
+								{
+									folder = "loadingmusic",
+									path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\loadingmusic\]],
+								},
+								Folders =  
+								{
+								},
+							},
+							 
+							{
+								Files =  
+								{
+									 
+									{
+										File = "ambient_ingame_01.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\ambient_ingame_01.fda]],
+										Size = 9350861,
+										Store = -1,
+									},
+									 
+									{
+										File = "ambient_ingame_01.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\ambient_ingame_01.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "ambient_ingame_02.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\ambient_ingame_02.fda]],
+										Size = 9786061,
+										Store = -1,
+									},
+									 
+									{
+										File = "ambient_ingame_02.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\ambient_ingame_02.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "ambient_ingame_04.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\ambient_ingame_04.fda]],
+										Size = 10844365,
+										Store = -1,
+									},
+									 
+									{
+										File = "ambient_ingame_04.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\ambient_ingame_04.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "battle_ingame_01.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\battle_ingame_01.fda]],
+										Size = 7988429,
+										Store = -1,
+									},
+									 
+									{
+										File = "battle_ingame_01.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\battle_ingame_01.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "briefing_m02.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\briefing_m02.fda]],
+										Size = 5949645,
+										Store = -1,
+									},
+									 
+									{
+										File = "briefing_m02.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\briefing_m02.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_crull.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_crull.fda]],
+										Size = 862413,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_crull.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_crull.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_crull_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_crull_orch.fda]],
+										Size = 845517,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_crull_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_crull_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_crull_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_crull_perc.fda]],
+										Size = 870605,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_crull_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_crull_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_gorgutz.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_gorgutz.fda]],
+										Size = 934605,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_gorgutz.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_gorgutz.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_gorgutz_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_gorgutz_orch.fda]],
+										Size = 896717,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_gorgutz_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_gorgutz_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_gorgutz_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_gorgutz_perc.fda]],
+										Size = 952013,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_gorgutz_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_gorgutz_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_sturnn.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_sturnn.fda]],
+										Size = 1130701,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_sturnn.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_sturnn.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_sturnn_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_sturnn_orch.fda]],
+										Size = 1125581,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_sturnn_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_sturnn_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_sturnn_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_sturnn_perc.fda]],
+										Size = 1109197,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_sturnn_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_sturnn_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_taldeer.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_taldeer.fda]],
+										Size = 1162957,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_taldeer.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_taldeer.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_taldeer_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_taldeer_orch.fda]],
+										Size = 1156813,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_taldeer_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_taldeer_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_taldeer_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_taldeer_perc.fda]],
+										Size = 1127629,
+										Store = -1,
+									},
+									 
+									{
+										File = "character_taldeer_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\character_taldeer_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "copy of music_main_title.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\copy of music_main_title.fda]],
+										Size = 5656269,
+										Store = -1,
+									},
+									 
+									{
+										File = "copy of music_main_title.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\copy of music_main_title.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_acid.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_acid.fda]],
+										Size = 6271181,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_acid.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_acid.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_chant.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_chant.fda]],
+										Size = 9530061,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_chant.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_chant.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_coming_of_chaos.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_coming_of_chaos.fda]],
+										Size = 7852237,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_coming_of_chaos.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_coming_of_chaos.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_dawnofwartheme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_dawnofwartheme.fda]],
+										Size = 8455373,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_dawnofwartheme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_dawnofwartheme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_eldartheme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_eldartheme.fda]],
+										Size = 6020301,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_eldartheme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_eldartheme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_eldarthemev2.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_eldarthemev2.fda]],
+										Size = 6117581,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_eldarthemev2.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_eldarthemev2.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_evil_isador_theme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_evil_isador_theme.fda]],
+										Size = 7172301,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_evil_isador_theme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_evil_isador_theme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_force_commander_theme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_force_commander_theme.fda]],
+										Size = 8868045,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_force_commander_theme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_force_commander_theme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_imperial_guard_theme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_imperial_guard_theme.fda]],
+										Size = 8160973,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_imperial_guard_theme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_imperial_guard_theme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_imperial_guard_theme_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_imperial_guard_theme_orch.fda]],
+										Size = 8153293,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_imperial_guard_theme_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_imperial_guard_theme_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_imperial_guard_theme_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_imperial_guard_theme_perc.fda]],
+										Size = 8115405,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_imperial_guard_theme_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_imperial_guard_theme_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_imperial_guard_theme_perc_choir.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_imperial_guard_theme_perc_choir.fda]],
+										Size = 8115405,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_imperial_guard_theme_perc_choir.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_imperial_guard_theme_perc_choir.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_imperial_guard_theme_perc_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_imperial_guard_theme_perc_orch.fda]],
+										Size = 8153293,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_imperial_guard_theme_perc_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_imperial_guard_theme_perc_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_invasion_theme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_invasion_theme.fda]],
+										Size = 6583501,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_invasion_theme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_invasion_theme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_main_title.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_main_title.fda]],
+										Size = 5656269,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_main_title.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_main_title.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_march_of_the_emperor.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_march_of_the_emperor.fda]],
+										Size = 5123789,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_march_of_the_emperor.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_march_of_the_emperor.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd1.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd1.fda]],
+										Size = 5563085,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd1.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd1.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd1_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd1_orch.fda]],
+										Size = 5546189,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd1_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd1_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd1_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd1_perc.fda]],
+										Size = 5534413,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd1_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd1_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd1_perc_choir.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd1_perc_choir.fda]],
+										Size = 5546189,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd1_perc_choir.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd1_perc_choir.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd2.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd2.fda]],
+										Size = 5466829,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd2.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd2.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd2_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd2_orch.fda]],
+										Size = 4979405,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd2_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd2_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd2_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd2_perc.fda]],
+										Size = 5448397,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd2_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd2_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd2_perc_choir.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd2_perc_choir.fda]],
+										Size = 5466829,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd2_perc_choir.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd2_perc_choir.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd3.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd3.fda]],
+										Size = 5185741,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd3.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd3.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd3_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd3_orch.fda]],
+										Size = 5139149,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd3_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd3_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd3_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd3_perc.fda]],
+										Size = 5185741,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd3_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd3_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd3_perc_choir.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd3_perc_choir.fda]],
+										Size = 5185741,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd3_perc_choir.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd3_perc_choir.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd4.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd4.fda]],
+										Size = 5464269,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd4.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd4.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd4_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd4_orch.fda]],
+										Size = 5447373,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd4_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd4_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd4_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd4_perc.fda]],
+										Size = 5464269,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd4_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd4_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd4_perc_choir.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd4_perc_choir.fda]],
+										Size = 5469389,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd4_perc_choir.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd4_perc_choir.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd5c.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd5c.fda]],
+										Size = 5483725,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd5c.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd5c.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd5c_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd5c_orch.fda]],
+										Size = 5471437,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd5c_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd5c_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd5o.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd5o.fda]],
+										Size = 5653709,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd5o.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd5o.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd5o_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd5o_orch.fda]],
+										Size = 5673677,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_msd5o_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_msd5o_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso1.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso1.fda]],
+										Size = 5394637,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso1.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso1.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso1_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso1_orch.fda]],
+										Size = 5361357,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso1_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso1_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso1_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso1_perc.fda]],
+										Size = 5432525,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso1_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso1_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso1_perc_choir.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso1_perc_choir.fda]],
+										Size = 5404365,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso1_perc_choir.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso1_perc_choir.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso2.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso2.fda]],
+										Size = 5567693,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso2.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso2.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso2_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso2_orch.fda]],
+										Size = 5551821,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso2_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso2_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso2_perc_choir.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso2_perc_choir.fda]],
+										Size = 5609677,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso2_perc_choir.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso2_perc_choir.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso3.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso3.fda]],
+										Size = 5377741,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso3.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso3.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso3_perc_brs.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso3_perc_brs.fda]],
+										Size = 5383885,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso3_perc_brs.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso3_perc_brs.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso3_perc_str.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso3_perc_str.fda]],
+										Size = 5371085,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso3_perc_str.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso3_perc_str.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso4.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso4.fda]],
+										Size = 5421773,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso4.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso4.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso4_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso4_orch.fda]],
+										Size = 5421773,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso4_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso4_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso5e.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso5e.fda]],
+										Size = 5561037,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso5e.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso5e.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso5e_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso5e_orch.fda]],
+										Size = 5554381,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso5e_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso5e_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso5i.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso5i.fda]],
+										Size = 5562573,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso5i.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso5i.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso5i_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso5i_orch.fda]],
+										Size = 5498061,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso5i_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso5i_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso5i_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso5i_perc.fda]],
+										Size = 5533389,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso5i_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso5i_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso5i_perc_choir.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso5i_perc_choir.fda]],
+										Size = 5555917,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_mso5i_perc_choir.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_mso5i_perc_choir.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_necron_theme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_necron_theme.fda]],
+										Size = 5405901,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_necron_theme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_necron_theme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_necron_theme_orch.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_necron_theme_orch.fda]],
+										Size = 5405901,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_necron_theme_orch.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_necron_theme_orch.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_necron_theme_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_necron_theme_perc.fda]],
+										Size = 5411533,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_necron_theme_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_necron_theme_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_ork_theme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_ork_theme.fda]],
+										Size = 6128845,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_ork_theme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_ork_theme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_tank_march.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_tank_march.fda]],
+										Size = 6845133,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_tank_march.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_tank_march.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_theme_chaos_01.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_theme_chaos_01.fda]],
+										Size = 5993165,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_theme_chaos_01.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_theme_chaos_01.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_theme_spacemarines_01.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_theme_spacemarines_01.fda]],
+										Size = 9345229,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_theme_spacemarines_01.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_theme_spacemarines_01.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_urban_wasteland.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_urban_wasteland.fda]],
+										Size = 8331981,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_urban_wasteland.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_urban_wasteland.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_warhammer40ktheme.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_warhammer40ktheme.fda]],
+										Size = 5488333,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_warhammer40ktheme.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\music_warhammer40ktheme.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_darkeldar.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_darkeldar.fda]],
+										Size = 8437965,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_darkeldar.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_darkeldar.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_darkeldar_perc_brass.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_darkeldar_perc_brass.fda]],
+										Size = 8463565,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_darkeldar_perc_brass.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_darkeldar_perc_brass.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_darkeldar_perc_str.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_darkeldar_perc_str.fda]],
+										Size = 8472269,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_darkeldar_perc_str.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_darkeldar_perc_str.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_necron.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_necron.fda]],
+										Size = 11067085,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_necron.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_necron.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_necron_brass.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_necron_brass.fda]],
+										Size = 11089613,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_necron_brass.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_necron_brass.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_necron_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_necron_perc.fda]],
+										Size = 10574029,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_necron_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_necron_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_necron_perc_brass.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_necron_perc_brass.fda]],
+										Size = 11011277,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_necron_perc_brass.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_necron_perc_brass.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_sisters.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_sisters.fda]],
+										Size = 7936205,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_sisters.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_sisters.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_sisters_perc_str.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_sisters_perc_str.fda]],
+										Size = 7944397,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_sisters_perc_str.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_sisters_perc_str.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_sisters_perc_voice.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_sisters_perc_voice.fda]],
+										Size = 7944397,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_sisters_perc_voice.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_sisters_perc_voice.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_tau.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_tau.fda]],
+										Size = 10209485,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_tau.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_tau.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_tau_perc_brass.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_tau_perc_brass.fda]],
+										Size = 10178253,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_tau_perc_brass.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_tau_perc_brass.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_tau_perc_winds.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_tau_perc_winds.fda]],
+										Size = 10199245,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_rac_tau_perc_winds.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_rac_tau_perc_winds.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_chaos.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_chaos.fda]],
+										Size = 10340557,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_chaos.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_chaos.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_chaos_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_chaos_perc.fda]],
+										Size = 10361549,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_chaos_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_chaos_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_chaos_perc_brass.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_chaos_perc_brass.fda]],
+										Size = 10319565,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_chaos_perc_brass.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_chaos_perc_brass.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_chaos_perc_str.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_chaos_perc_str.fda]],
+										Size = 10330317,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_chaos_perc_str.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_chaos_perc_str.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_chaos_perc_voice.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_chaos_perc_voice.fda]],
+										Size = 10361549,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_chaos_perc_voice.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_chaos_perc_voice.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_darkeldar.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_darkeldar.fda]],
+										Size = 8462029,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_darkeldar.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_darkeldar.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_darkeldar_perc_brass.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_darkeldar_perc_brass.fda]],
+										Size = 8455885,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_darkeldar_perc_brass.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_darkeldar_perc_brass.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_darkeldar_perc_str.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_darkeldar_perc_str.fda]],
+										Size = 8370893,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_darkeldar_perc_str.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_darkeldar_perc_str.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_eldar.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_eldar.fda]],
+										Size = 10853581,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_eldar.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_eldar.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_eldar_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_eldar_perc.fda]],
+										Size = 10809549,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_eldar_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_eldar_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_eldar_perc_brass.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_eldar_perc_brass.fda]],
+										Size = 10842317,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_eldar_perc_brass.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_eldar_perc_brass.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_eldar_perc_str.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_eldar_perc_str.fda]],
+										Size = 10776781,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_eldar_perc_str.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_eldar_perc_str.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_impgd.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_impgd.fda]],
+										Size = 10650829,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_impgd.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_impgd.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_impgd_perc_brass.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_impgd_perc_brass.fda]],
+										Size = 10618573,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_impgd_perc_brass.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_impgd_perc_brass.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_impgd_perc_str.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_impgd_perc_str.fda]],
+										Size = 10645709,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_impgd_perc_str.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_impgd_perc_str.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_impgd_perc_voice.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_impgd_perc_voice.fda]],
+										Size = 10640077,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_impgd_perc_voice.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_impgd_perc_voice.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_necron.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_necron.fda]],
+										Size = 9711309,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_necron.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_necron.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_necron_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_necron_perc.fda]],
+										Size = 9760973,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_necron_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_necron_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_necron_perc_brass.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_necron_perc_brass.fda]],
+										Size = 9691853,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_necron_perc_brass.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_necron_perc_brass.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_necron_perc_str.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_necron_perc_str.fda]],
+										Size = 9780941,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_necron_perc_str.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_necron_perc_str.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_ork.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_ork.fda]],
+										Size = 10298061,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_ork.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_ork.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_ork_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_ork_perc.fda]],
+										Size = 10256589,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_ork_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_ork_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_ork_perc_brass.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_ork_perc_brass.fda]],
+										Size = 10313933,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_ork_perc_brass.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_ork_perc_brass.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_ork_perc_str.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_ork_perc_str.fda]],
+										Size = 10277581,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_ork_perc_str.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_ork_perc_str.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_sisters.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_sisters.fda]],
+										Size = 8483021,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_sisters.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_sisters.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_sisters_perc_str.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_sisters_perc_str.fda]],
+										Size = 8491725,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_sisters_perc_str.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_sisters_perc_str.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_sisters_perc_voice.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_sisters_perc_voice.fda]],
+										Size = 8508621,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_sisters_perc_voice.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_sisters_perc_voice.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_spacemarine.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_spacemarine.fda]],
+										Size = 10593997,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_spacemarine.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_spacemarine.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_spacemarine_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_spacemarine_perc.fda]],
+										Size = 10573005,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_spacemarine_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_spacemarine_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_spacemarine_perc_brass.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_spacemarine_perc_brass.fda]],
+										Size = 10655437,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_spacemarine_perc_brass.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_spacemarine_perc_brass.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_spacemarine_perc_str.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_spacemarine_perc_str.fda]],
+										Size = 10626253,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_spacemarine_perc_str.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_spacemarine_perc_str.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_tau.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_tau.fda]],
+										Size = 10301645,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_tau.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_tau.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_tau_perc.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_tau_perc.fda]],
+										Size = 10335437,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_tau_perc.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_tau_perc.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_tau_perc_brass.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_tau_perc_brass.fda]],
+										Size = 10358989,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_tau_perc_brass.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_tau_perc_brass.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_tau_perc_str.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_tau_perc_str.fda]],
+										Size = 10373837,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_str_tau_perc_str.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_str_tau_perc_str.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_theme_nightbringer.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_theme_nightbringer.fda]],
+										Size = 5824717,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_theme_nightbringer.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_theme_nightbringer.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_chaos.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_chaos.fda]],
+										Size = 1096909,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_chaos.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_chaos.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_darkeldar.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_darkeldar.fda]],
+										Size = 1471181,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_darkeldar.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_darkeldar.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_eldar.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_eldar.fda]],
+										Size = 571597,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_eldar.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_eldar.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_guard.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_guard.fda]],
+										Size = 880845,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_guard.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_guard.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_necron.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_necron.fda]],
+										Size = 915149,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_necron.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_necron.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_ork.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_ork.fda]],
+										Size = 629965,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_ork.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_ork.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_sisters.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_sisters.fda]],
+										Size = 1466061,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_sisters.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_sisters.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_space_marine.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_space_marine.fda]],
+										Size = 773325,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_space_marine.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_space_marine.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_tau.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_tau.fda]],
+										Size = 635597,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_ig_vic_tau.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\mu_ig_vic_tau.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "playerswitch_chaos.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\playerswitch_chaos.fda]],
+										Size = 724173,
+										Store = -1,
+									},
+									 
+									{
+										File = "playerswitch_chaos.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\playerswitch_chaos.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "playerswitch_eldar.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\playerswitch_eldar.fda]],
+										Size = 1027277,
+										Store = -1,
+									},
+									 
+									{
+										File = "playerswitch_eldar.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\playerswitch_eldar.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "playerswitch_imperialguard.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\playerswitch_imperialguard.fda]],
+										Size = 721101,
+										Store = -1,
+									},
+									 
+									{
+										File = "playerswitch_imperialguard.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\playerswitch_imperialguard.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "playerswitch_ork.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\playerswitch_ork.fda]],
+										Size = 697549,
+										Store = -1,
+									},
+									 
+									{
+										File = "playerswitch_ork.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\playerswitch_ork.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_completeobjective.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_completeobjective.fda]],
+										Size = 171213,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_completeobjective.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_completeobjective.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_daemon_gate.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_daemon_gate.fda]],
+										Size = 553677,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_daemon_gate.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_daemon_gate.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_chaos.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_motif_chaos.fda]],
+										Size = 770253,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_chaos.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_motif_chaos.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_eldar.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_motif_eldar.fda]],
+										Size = 708813,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_eldar.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_motif_eldar.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_forcecommander.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_motif_forcecommander.fda]],
+										Size = 657613,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_forcecommander.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_motif_forcecommander.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_ork.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_motif_ork.fda]],
+										Size = 701645,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_ork.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_motif_ork.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_spacemarines.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_motif_spacemarines.fda]],
+										Size = 381133,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_motif_spacemarines.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_motif_spacemarines.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd1_imperialguardentrance.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd1_imperialguardentrance.fda]],
+										Size = 571597,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd1_imperialguardentrance.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd1_imperialguardentrance.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd1_tanksdestruction.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd1_tanksdestruction.fda]],
+										Size = 563405,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd1_tanksdestruction.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd1_tanksdestruction.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd1_warboss hunted.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd1_warboss hunted.fda]],
+										Size = 637645,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd1_warboss hunted.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd1_warboss hunted.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd2_orksatwaagh.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd2_orksatwaagh.fda]],
+										Size = 519885,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd2_orksatwaagh.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd2_orksatwaagh.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd2_orksvictory.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd2_orksvictory.fda]],
+										Size = 517837,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd2_orksvictory.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd2_orksvictory.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd2_squiggoth.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd2_squiggoth.fda]],
+										Size = 481485,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd2_squiggoth.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd2_squiggoth.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd3_clashofgiants.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd3_clashofgiants.fda]],
+										Size = 751309,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd3_clashofgiants.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd3_clashofgiants.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd3_demiseofcaptainsturnn.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd3_demiseofcaptainsturnn.fda]],
+										Size = 562893,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd3_demiseofcaptainsturnn.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd3_demiseofcaptainsturnn.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd3_sacrificeofblood.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd3_sacrificeofblood.fda]],
+										Size = 650957,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd3_sacrificeofblood.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd3_sacrificeofblood.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd4_controllingthegate.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd4_controllingthegate.fda]],
+										Size = 606925,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd4_controllingthegate.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd4_controllingthegate.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd4_deathofthefarseer.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd4_deathofthefarseer.fda]],
+										Size = 625357,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd4_deathofthefarseer.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd4_deathofthefarseer.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd4_victoryisnear.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd4_victoryisnear.fda]],
+										Size = 572109,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd4_victoryisnear.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd4_victoryisnear.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd5c_bloodforthebloodgod.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd5c_bloodforthebloodgod.fda]],
+										Size = 787149,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd5c_bloodforthebloodgod.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd5c_bloodforthebloodgod.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd5c_sacrificingforglory.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd5c_sacrificingforglory.fda]],
+										Size = 603853,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd5c_sacrificingforglory.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd5c_sacrificingforglory.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd5c_taintedtitan.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd5c_taintedtitan.fda]],
+										Size = 630989,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd5c_taintedtitan.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd5c_taintedtitan.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd5o_attackingthetitan.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd5o_attackingthetitan.fda]],
+										Size = 557773,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd5o_attackingthetitan.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd5o_attackingthetitan.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd5o_finalduel.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd5o_finalduel.fda]],
+										Size = 838349,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd5o_finalduel.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd5o_finalduel.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd5o_necronsarrive.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd5o_necronsarrive.fda]],
+										Size = 620749,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_msd5o_necronsarrive.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_msd5o_necronsarrive.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso1_thecaptain.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso1_thecaptain.fda]],
+										Size = 480461,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso1_thecaptain.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso1_thecaptain.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso1_thedaemongate.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso1_thedaemongate.fda]],
+										Size = 538829,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso1_thedaemongate.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso1_thedaemongate.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso1_thesorcerer.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso1_thesorcerer.fda]],
+										Size = 544461,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso1_thesorcerer.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso1_thesorcerer.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso2_artileryonthebridge.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso2_artileryonthebridge.fda]],
+										Size = 479437,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso2_artileryonthebridge.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso2_artileryonthebridge.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso2_thebasilisks.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso2_thebasilisks.fda]],
+										Size = 552653,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso2_thebasilisks.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso2_thebasilisks.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso2_theultramarines.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso2_theultramarines.fda]],
+										Size = 550605,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso2_theultramarines.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso2_theultramarines.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso3_arrivalofimperialnavy.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso3_arrivalofimperialnavy.fda]],
+										Size = 536781,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso3_arrivalofimperialnavy.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso3_arrivalofimperialnavy.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso3_theimperialguardhold.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso3_theimperialguardhold.fda]],
+										Size = 549069,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso3_theimperialguardhold.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso3_theimperialguardhold.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso3_wraithlords.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso3_wraithlords.fda]],
+										Size = 573645,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso3_wraithlords.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso3_wraithlords.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso4_arrivalatcontrolroom.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso4_arrivalatcontrolroom.fda]],
+										Size = 553677,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso4_arrivalatcontrolroom.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso4_arrivalatcontrolroom.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso4_convoyatrisk.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso4_convoyatrisk.fda]],
+										Size = 537293,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso4_convoyatrisk.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso4_convoyatrisk.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso4_webwayassemblyatrisk.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso4_webwayassemblyatrisk.fda]],
+										Size = 607437,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso4_webwayassemblyatrisk.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso4_webwayassemblyatrisk.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso5e_monolithsbanished.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso5e_monolithsbanished.fda]],
+										Size = 600269,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso5e_monolithsbanished.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso5e_monolithsbanished.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso5e_stonewithoutpower.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso5e_stonewithoutpower.fda]],
+										Size = 653005,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso5e_stonewithoutpower.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso5e_stonewithoutpower.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso5e_titanentombed.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso5e_titanentombed.fda]],
+										Size = 538829,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso5e_titanentombed.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso5e_titanentombed.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso5i_necronsdestroyed.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso5i_necronsdestroyed.fda]],
+										Size = 572109,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso5i_necronsdestroyed.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso5i_necronsdestroyed.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso5i_thetitan.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso5i_thetitan.fda]],
+										Size = 632013,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso5i_thetitan.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso5i_thetitan.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso5i_titanweapononline.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso5i_titanweapononline.fda]],
+										Size = 543437,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mso5i_titanweapononline.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mso5i_titanweapononline.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mysterious_stinger.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mysterious_stinger.fda]],
+										Size = 2854605,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_mysterious_stinger.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_mysterious_stinger.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_newigunit.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_newigunit.fda]],
+										Size = 1302221,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_newigunit.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_newigunit.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_newobjective.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_newobjective.fda]],
+										Size = 201421,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_newobjective.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_newobjective.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_pressure_stinger.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_pressure_stinger.fda]],
+										Size = 2613965,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_pressure_stinger.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_pressure_stinger.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_tensedanger.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_tensedanger.fda]],
+										Size = 3156173,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_tensedanger.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_tensedanger.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_the_captain.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_the_captain.fda]],
+										Size = 478413,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_the_captain.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_the_captain.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_the_sorcerer.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_the_sorcerer.fda]],
+										Size = 563917,
+										Store = -1,
+									},
+									 
+									{
+										File = "stinger_the_sorcerer.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\stinger_the_sorcerer.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "_default.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\_default.rat]],
+										Size = 147,
+										Store = -1,
+									},
+								},
+								FolderInfo =  
+								{
+									folder = "music",
+									path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\sound\music\]],
+								},
+								Folders =  
+								{
+								},
+							},
+						},
+					},
+				},
+			},
+			TOCHeader =  
+			{
+				Alias = "Data",
+				Name = "JXP4Music",
+				RootPath = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Soulstorm\JXP4\data\]],
+				Storage =  
+				{
+					 
+					{
+						MaxSize = 100,
+						MinSize = -1,
+						Storage = 0,
+						Wildcard = "*.*",
+					},
+					 
+					{
+						MaxSize = -1,
+						MinSize = -1,
+						Storage = 0,
+						Wildcard = "*.mp3",
+					},
+					 
+					{
+						MaxSize = -1,
+						MinSize = -1,
+						Storage = 0,
+						Wildcard = "*.wav",
+					},
+					 
+					{
+						MaxSize = -1,
+						MinSize = -1,
+						Storage = 0,
+						Wildcard = "*.jpg",
+					},
+					 
+					{
+						MaxSize = -1,
+						MinSize = -1,
+						Storage = 2,
+						Wildcard = "*.lua",
+					},
+				},
+			},
+		},
+	},
+}
+
