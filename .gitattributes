@@ -75,3 +75,4 @@ ModTools/DataGeneric/JXP3/sound/music/music_mso4_orch.aup3 filter=lfs diff=lfs m
 ModTools/DataGeneric/JXP3/sound/music/music_necron_theme_orch.aup3 filter=lfs diff=lfs merge=lfs -text
 ModTools/DataGeneric/JXP3/sound/music/music_msd3_orch.aup3 filter=lfs diff=lfs merge=lfs -text
 ModTools/DataGeneric/JXP3/sound/music/music_msd2_orch.aup3 filter=lfs diff=lfs merge=lfs -text
+JXP4/JXP4Music.sga filter=lfs diff=lfs merge=lfs -text
