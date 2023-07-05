@@ -277,7 +277,7 @@ The following files:
 * "mu_ig_vic_darkeldar.fda" and "mu_ig_vic_darkeldar.wav";
 * "mu_ig_vic_sisters.fda" and "mu_ig_vic_sisters.wav";
 
-were are based on music created by Inon Zur, are proprietary and NOT LICENSED.
+are based on music created by Inon Zur, are proprietary and NOT LICENSED.
 
 The following files:
 * "stinger_completeobjective.aup3", "stinger_completeobjective.fda" and "stinger_completeobjective.wav";
