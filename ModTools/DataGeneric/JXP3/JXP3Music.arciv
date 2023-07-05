@@ -19,6 +19,13 @@ Archive =
 						Size = 1042,
 						Store = -1,
 					},
+					 
+					{
+						File = "soundplaylistfe.lua",
+						Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\soundplaylistfe.lua]],
+						Size = 144,
+						Store = -1,
+					},
 				},
 				FolderInfo =  
 				{
@@ -194,6 +201,146 @@ Archive =
 									{
 										File = "_default.rat",
 										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\_default.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd1.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\loop_msd1.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd2.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\loop_msd2.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd3.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\loop_msd3.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd4.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\loop_msd4.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd5c.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\loop_msd5c.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd5o.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\loop_msd5o.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso1.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\loop_mso1.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso2.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\loop_mso2.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso3.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\loop_mso3.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso4.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\loop_mso4.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso5e.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\loop_mso5e.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso5i.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\loop_mso5i.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop1.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\mu_fe_dc_loadloop1.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop2.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\mu_fe_dc_loadloop2.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop3.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\mu_fe_dc_loadloop3.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop4.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\mu_fe_dc_loadloop4.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop5.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\mu_fe_dc_loadloop5.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop6.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\mu_fe_dc_loadloop6.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop7.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\mu_fe_dc_loadloop7.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "mu_fe_dc_loadloop8.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\loadingmusic\mu_fe_dc_loadloop8.rat]],
 										Size = 128,
 										Store = -1,
 									},
@@ -2721,6 +2868,20 @@ Archive =
 									{
 										File = "_default.rat",
 										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\music\_default.rat]],
+										Size = 147,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_main_title_new.fda",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\music\music_main_title_new.fda]],
+										Size = 10312910,
+										Store = -1,
+									},
+									 
+									{
+										File = "music_main_title_new.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Dark Crusade\JXP3\data\sound\music\music_main_title_new.rat]],
 										Size = 147,
 										Store = -1,
 									},
