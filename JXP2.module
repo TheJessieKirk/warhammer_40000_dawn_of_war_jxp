@@ -9,6 +9,7 @@ ModVersion = 0.1.0
 DataFolder.1 = Data
 
 ArchiveFile.1 = JXP2Music
+ArchiveFile.2 = JXP2Textures
 
 RequiredMod.1 = WXP
 RequiredMod.2 = W40k

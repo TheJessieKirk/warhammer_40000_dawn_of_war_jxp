@@ -8,6 +8,7 @@ ModFolder = JXP4
 ModVersion = 0.1.0
 
 ArchiveFile.1 = JXP4Music
+ArchiveFile.1 = JXP4Textures
 
 DataFolder.1 = Data
 

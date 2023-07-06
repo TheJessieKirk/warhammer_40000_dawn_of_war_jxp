@@ -1,7 +1,11 @@
 JXP1/JXP1Music.sga filter=lfs diff=lfs merge=lfs -text
+JXP1/JXP1Textures.sga filter=lfs diff=lfs merge=lfs -text
 JXP2/JXP2Music.sga filter=lfs diff=lfs merge=lfs -text
+JXP2/JXP2Textures.sga filter=lfs diff=lfs merge=lfs -text
 JXP3/JXP3Music.sga filter=lfs diff=lfs merge=lfs -text
+JXP3/JXP3Textures.sga filter=lfs diff=lfs merge=lfs -text
 JXP4/JXP4Music.sga filter=lfs diff=lfs merge=lfs -text
+JXP4/JXP4Textures.sga filter=lfs diff=lfs merge=lfs -text
 ModTools/DataGeneric/JXP2/sound/music/music_imperial_guard_theme.aup3 filter=lfs diff=lfs merge=lfs -text
 ModTools/DataGeneric/JXP2/sound/music/music_imperial_guard_theme_perc_orch.aup3 filter=lfs diff=lfs merge=lfs -text
 ModTools/DataGeneric/JXP2/sound/music/music_msd1.aup3 filter=lfs diff=lfs merge=lfs -text

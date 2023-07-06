@@ -10,5 +10,6 @@ DataFolder.1 = Data
 
 ArchiveFile.1 = Wh40kSyncData
 ArchiveFile.2 = JXP1Music
+ArchiveFile.3 = JXP1Textures
 
 RequiredMod.1 = W40k
