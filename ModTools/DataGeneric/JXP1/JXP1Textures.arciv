@@ -1,0 +1,121 @@
+Archive =  
+{
+	ArchiveHeader =  
+	{
+		ArchiveName = "JXP1Textures",
+	},
+	TOCList =  
+	{
+		 
+		{
+			RootFolder =  
+			{
+				Files =  
+				{
+				},
+				FolderInfo =  
+				{
+					folder = "",
+					path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\]],
+				},
+				Folders =  
+				{
+					 
+					{
+						Files =  
+						{
+						},
+						FolderInfo =  
+						{
+							folder = "art",
+							path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\art\]],
+						},
+						Folders =  
+						{
+							 
+							{
+								Files =  
+								{
+								},
+								FolderInfo =  
+								{
+									folder = "ui",
+									path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\art\ui\]],
+								},
+								Folders =  
+								{
+									 
+									{
+										Files =  
+										{
+											 
+											{
+												File = "w40k_main_menu_tech.dds",
+												Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\art\ui\textures\w40k_main_menu_tech.dds]],
+												Size = 6790688,
+												Store = -1,
+											},
+										},
+										FolderInfo =  
+										{
+											folder = "textures",
+											path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\art\ui\textures\]],
+										},
+										Folders =  
+										{
+										},
+									},
+								},
+							},
+						},
+					},
+				},
+			},
+			TOCHeader =  
+			{
+				Alias = "Data",
+				Name = "JXP1Textures",
+				RootPath = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP1\data\]],
+				Storage =  
+				{
+					 
+					{
+						MaxSize = 100,
+						MinSize = -1,
+						Storage = 0,
+						Wildcard = "*.*",
+					},
+					 
+					{
+						MaxSize = -1,
+						MinSize = -1,
+						Storage = 0,
+						Wildcard = "*.mp3",
+					},
+					 
+					{
+						MaxSize = -1,
+						MinSize = -1,
+						Storage = 0,
+						Wildcard = "*.wav",
+					},
+					 
+					{
+						MaxSize = -1,
+						MinSize = -1,
+						Storage = 0,
+						Wildcard = "*.jpg",
+					},
+					 
+					{
+						MaxSize = -1,
+						MinSize = -1,
+						Storage = 2,
+						Wildcard = "*.lua",
+					},
+				},
+			},
+		},
+	},
+}
+

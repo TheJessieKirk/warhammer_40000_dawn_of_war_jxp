@@ -141,6 +141,90 @@ Archive =
 										Size = 128,
 										Store = -1,
 									},
+									 
+									{
+										File = "loop_msd1.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP2\data\sound\loadingmusic\loop_msd1.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd2.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP2\data\sound\loadingmusic\loop_msd2.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd3.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP2\data\sound\loadingmusic\loop_msd3.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd4.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP2\data\sound\loadingmusic\loop_msd4.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd5c.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP2\data\sound\loadingmusic\loop_msd5c.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_msd5o.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP2\data\sound\loadingmusic\loop_msd5o.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso1.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP2\data\sound\loadingmusic\loop_mso1.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso2.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP2\data\sound\loadingmusic\loop_mso2.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso3.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP2\data\sound\loadingmusic\loop_mso3.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso4.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP2\data\sound\loadingmusic\loop_mso4.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso5e.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP2\data\sound\loadingmusic\loop_mso5e.rat]],
+										Size = 128,
+										Store = -1,
+									},
+									 
+									{
+										File = "loop_mso5i.rat",
+										Path = [[C:\Program Files (x86)\Valve Steam\steamapps\common\Dawn of War Gold\JXP2\data\sound\loadingmusic\loop_mso5i.rat]],
+										Size = 128,
+										Store = -1,
+									},
 								},
 								FolderInfo =  
 								{
