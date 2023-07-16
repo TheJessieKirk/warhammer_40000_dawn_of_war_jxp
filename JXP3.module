@@ -7,8 +7,9 @@ Playable = 1
 ModFolder = JXP3
 ModVersion = 0.1.0
 
-ArchiveFile.1 = JXP3Music
-ArchiveFile.2 = JXP3Textures
+ArchiveFile.1 = DXP2SyncData
+ArchiveFile.2 = JXP3Music
+ArchiveFile.3 = JXP3Textures
 
 DataFolder.1 = Data
 
