@@ -29,6 +29,10 @@ All other properties belong to their respective owners.
 
 ### JXP1 (Dawn of War)
 
+### Art
+* Created a high-definition version of main menu tech.
+* Corrected format inconsistencies in UI icons.
+
 #### Attributes
 * All attribute files are re-compiled for better game stability.
 
@@ -42,6 +46,9 @@ All other properties belong to their respective owners.
 * Adjusted volume of all music tracks for consistent listening.
 
 ### JXP2 (Winter Assault)
+
+### Art
+* Created a high-definition version of main menu tech.
 
 #### Attributes
 * All attribute files are re-compiled for better game stability.
@@ -57,6 +64,9 @@ All other properties belong to their respective owners.
 * Adjusted volume of all music tracks for consistent listening.
 
 ### JXP3 (Dark Crusade)
+
+### Art
+* Created a high-definition version of main menu tech.
 
 #### Attributes
 * All attribute files are re-compiled for better game stability.
@@ -74,6 +84,9 @@ All other properties belong to their respective owners.
 
 ### JXP4 (Soulstorm)
 
+### Art
+* Created a high-definition version of main menu tech.
+
 #### Music
 * All tracks are normalised for consistent volume.
 * All track ending-silences have been trimmed for faster soundtrack progression.
@@ -86,6 +99,9 @@ All other properties belong to their respective owners.
 * Adjusted volume of all music tracks for consistent listening.
 
 ## Attributions
+
+### Art
+* Squad and support cap icon assets taken from [Baka Designs](https://bakadesign.dk/). Source: [Baka Designs](https://bakadesign.dk/warhammer-40-000-vector-icons-for-download/).
 
 ### Sound Effects
 * "Byzantine Chant.wav" by [RTB4](https://freesound.org/people/RTB45/). Source: [Freesound](https://freesound.org/people/RTB45/sounds/157294/). Used under [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/) license.
@@ -298,7 +314,11 @@ are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.
 ## Tools Used
 * [Audacity](https://www.audacityteam.org/) for audio editing.
 * [Code Beautify](https://codebeautify.org/lua-beautifier) for Lua code formatting.
+* Corsix Mod Tools for Lua normalisation comparisons and reverse engineering source files.
+* [Diffchecker](https://www.diffchecker.com/text-compare/) for Lua normalisation comparisons and reverse engineering source files.
 * fda2aifc by jTommy for audio format conversion.
 * RDN Audio Converter for mod development.
 * RDN ModTools for mod development.
 * [The Alphabetizer](https://alphabetizer.flap.tv/) for file organisation.
+* [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) for high definition texture generation.
+* [Y2Down](https://y2down.cc/en/youtube-playlist.html) for March of the Emperor download.
